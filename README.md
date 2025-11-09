@@ -1,4 +1,4 @@
-# bioinfo-final-project
+# Trabalho Prático: Classificação de Elementos Transponíveis
 
 Elementos Transponíveis (TEs) são sequências de DNA repetitivas dispersas nos genomas, mais prevalentes em
 organismos eucarióticos e frequentemente impactando a evolução e arquitetura do genoma, principalmente
@@ -6,6 +6,8 @@ devido à sua redundância e rearranjos que promovem. Por exemplo, TEs podem com
 muitos genomas de plantas, por exemplo, milho e trigo. Por outro lado, independentemente do número e
 quantidade presentes em um determinado genoma, TEs também podem desempenhar papéis importantes
 moldando a expressão gênica e a estrutura da cromatina [1].
+
+
 Neste trabalho vocês utilizarão um conjunto de dados de TEs da planta Z. mays (Zea mays) disponível no site do
 Atlas dos Elementos Transponíveis em plantas (http://apte.cp.utfpr.edu.br/download). Vocês devem fazer o
 download dos seis arquivos .gff3 correspondentes às seis classes apresentadas para download: LTRs, LINEs,
